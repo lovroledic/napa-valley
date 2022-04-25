@@ -1,0 +1,38 @@
+<svg width="64px" height="64px" viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#191F2A;fill-opacity:0.2727;}
+	.st1{fill:url(#Oval_2_);}
+	.st2{fill:url(#SVGID_1_);}
+	.st3{fill:url(#SVGID_2_);}
+</style>
+<g id="MORE-CONTENT-PLAY">
+	<circle id="Oval" class="st0" cx="32" cy="32" r="31"/>
+	
+		<linearGradient id="Oval_2_" gradientUnits="userSpaceOnUse" x1="-912.6422" y1="565.2421" x2="-911.6091" y2="564.1474" gradientTransform="matrix(64 0 0 -64 58401 36165)">
+		<stop offset="0" style="stop-color:#9E6736"/>
+		<stop offset="0.2475" style="stop-color:#CC9A5D"/>
+		<stop offset="0.5181" style="stop-color:#D5B088"/>
+		<stop offset="0.7352" style="stop-color:#C99451"/>
+		<stop offset="1" style="stop-color:#90582D"/>
+	</linearGradient>
+	<path id="Oval_1_" class="st1" d="M32,64c17.7,0,32-14.3,32-32S49.7,0,32,0S0,14.3,0,32S14.3,64,32,64z M32,62C15.4,62,2,48.6,2,32   S15.4,2,32,2s30,13.4,30,30S48.6,62,32,62z"/>
+	<g>
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="8.8634" y1="6.5138" x2="41.8418" y2="53.2425">
+			<stop offset="0" style="stop-color:#9E6736"/>
+			<stop offset="0.2475" style="stop-color:#CC9A5D"/>
+			<stop offset="0.5181" style="stop-color:#D5B088"/>
+			<stop offset="0.7352" style="stop-color:#C99451"/>
+			<stop offset="1" style="stop-color:#90582D"/>
+		</linearGradient>
+		<path class="st2" d="M23.8,18.5v27.1H30V18.5H23.8z M28.1,43.8h-2.4V20.4h2.4V43.8z"/>
+		<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="19.0383" y1="6.3368" x2="52.0167" y2="53.0655">
+			<stop offset="0" style="stop-color:#9E6736"/>
+			<stop offset="0.2475" style="stop-color:#CC9A5D"/>
+			<stop offset="0.5181" style="stop-color:#D5B088"/>
+			<stop offset="0.7352" style="stop-color:#C99451"/>
+			<stop offset="1" style="stop-color:#90582D"/>
+		</linearGradient>
+		<path class="st3" d="M34,18.3v27.1h6.2V18.3H34z M38.3,43.6h-2.4V20.2h2.4V43.6z"/>
+	</g>
+</g>
+</svg>
