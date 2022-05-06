@@ -1,0 +1,21 @@
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="-11.2937927%" y1="-17.6902771%" x2="92.0150757%" y2="91.7816162%" id="linearGradient-1">
+            <stop stop-color="#9E6736" offset="0%"></stop>
+            <stop stop-color="#CC9A5D" offset="24.7466216%"></stop>
+            <stop stop-color="#D5B088" offset="51.813239%"></stop>
+            <stop stop-color="#C99451" offset="73.5193201%"></stop>
+            <stop stop-color="#90582D" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="wine" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-690.000000, -2376.000000)" id="force-scroll--">
+            <g transform="translate(-5.000000, 1536.000000)">
+                <g id="MORE-CONTENT" transform="translate(695.000000, 840.000000)">
+                    <!-- <circle id="Oval" cx="32" cy="32" r="31"></circle> -->
+                    <path d="M32,0 C49.673112,0 64,14.326888 64,32 C64,49.673112 49.673112,64 32,64 C14.326888,64 0,49.673112 0,32 C0,14.326888 14.326888,0 32,0 Z M32,2 C15.4314575,2 2,15.4314575 2,32 C2,48.5685425 15.4314575,62 32,62 C48.5685425,62 62,48.5685425 62,32 C62,15.4314575 48.5685425,2 32,2 Z M33.25,13 L33.25,29.75 L50,29.75 L50,32.25 L33.25,32.25 L33.25,49 L30.75,49 L30.75,32.25 L14,32.25 L14,29.75 L30.75,29.75 L30.75,13 L33.25,13 Z" id="Combined-Shape" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
