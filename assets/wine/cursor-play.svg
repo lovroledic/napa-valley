@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="-11.2937927%" y1="-17.6902771%" x2="92.0150757%" y2="91.7816162%" id="linearGradient-1">
+            <stop stop-color="#9E6736" offset="0%"></stop>
+            <stop stop-color="#CC9A5D" offset="24.7466216%"></stop>
+            <stop stop-color="#D5B088" offset="51.813239%"></stop>
+            <stop stop-color="#C99451" offset="73.5193201%"></stop>
+            <stop stop-color="#90582D" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-67.7337455%" y1="17.198574%" x2="139.489949%" y2="52.9466543%" id="linearGradient-2">
+            <stop stop-color="#9E6736" offset="0%"></stop>
+            <stop stop-color="#CC9A5D" offset="24.7466216%"></stop>
+            <stop stop-color="#D5B088" offset="51.813239%"></stop>
+            <stop stop-color="#C99451" offset="73.5193201%"></stop>
+            <stop stop-color="#90582D" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="MORE-CONTENT-PLAY" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" fill-opacity="0.272727273" fill="#191F2A" cx="32" cy="32" r="31"></circle>
+        <path d="M32,64 C49.673112,64 64,49.673112 64,32 C64,14.326888 49.673112,0 32,0 C14.326888,0 0,14.326888 0,32 C0,49.673112 14.326888,64 32,64 Z M32,62 C15.4314575,62 2,48.5685425 2,32 C2,15.4314575 15.4314575,2 32,2 C48.5685425,2 62,15.4314575 62,32 C62,48.5685425 48.5685425,62 32,62 Z" id="Oval" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+        <path d="M15.8158808,25.3647441 L41.4651353,19.3511244 L35.6023982,45.0003789 L15.8158808,25.3647441 Z M20.1841192,26.6002424 L34.3403725,40.6485468 L38.5348647,22.2978014 L20.1841192,26.6002424 Z" id="Path" fill="url(#linearGradient-2)" fill-rule="nonzero" transform="translate(28.640508, 32.175752) rotate(-315.000000) translate(-28.640508, -32.175752) "></path>
+    </g>
+</svg>
